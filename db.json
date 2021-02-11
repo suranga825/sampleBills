@@ -1,11 +1,156 @@
+\suranga825/sampleBills
+
 {
-	"posts": [
-	  {
-		"id": 1,
-		"title": "hello"
-	  }
-	],
-	"profile": {
-	  "name": "typicode"
-	}
-  }
+ "bills": [
+    {
+        "id": 5596,
+        "bill_name": "ACME Gas",
+        "date": "2021-02-13",
+        "status": "paid"
+    },
+    {
+        "id": 9793,
+        "bill_name": "Lumo Gas",
+        "date": "2020-11-18",
+        "status": "unable to pay"
+    },
+    {
+        "id": 3408,
+        "bill_name": "ACME Electricty",
+        "date": "2021-02-24",
+        "status": "paid"
+    },
+    {
+        "id": 3186,
+        "bill_name": "SA Water",
+        "date": "2021-02-06",
+        "status": "unable to pay"
+    },
+    {
+        "id": 6785,
+        "bill_name": "SA Water",
+        "date": "2021-01-24",
+        "status": "processing"
+    },
+    {
+        "id": 6967,
+        "bill_name": "Lumo Electricity",
+        "date": "2021-02-18",
+        "status": "scheduled"
+    },
+    {
+        "id": 7640,
+        "bill_name": "Lumo Gas",
+        "date": "2021-01-24",
+        "status": "paid"
+    },
+    {
+        "id": 9121,
+        "bill_name": "ACME Electricty",
+        "date": "2020-11-07",
+        "status": "processing"
+    },
+    {
+        "id": 596,
+        "bill_name": "Lumo Electricity",
+        "date": "2020-11-06",
+        "status": "paid"
+    },
+    {
+        "id": 693,
+        "bill_name": "ACME Electricty",
+        "date": "2020-11-02",
+        "status": "paid"
+    },
+    {
+        "id": 1698,
+        "bill_name": "Lumo Gas",
+        "date": "2021-02-22",
+        "status": "unable to pay"
+    },
+    {
+        "id": 3636,
+        "bill_name": "Lumo Electricity",
+        "date": "2021-02-16",
+        "status": "unable to pay"
+    },
+    {
+        "id": 6721,
+        "bill_name": "ACME Gas",
+        "date": "2020-11-22",
+        "status": "scheduled"
+    },
+    {
+        "id": 4768,
+        "bill_name": "Lumo Gas",
+        "date": "2020-11-12",
+        "status": "scheduled"
+    },
+    {
+        "id": 4504,
+        "bill_name": "ACME Gas",
+        "date": "2020-11-23",
+        "status": "scheduled"
+    },
+    {
+        "id": 1624,
+        "bill_name": "ACME Gas",
+        "date": "2020-11-29",
+        "status": "unable to pay"
+    },
+    {
+        "id": 8568,
+        "bill_name": "Lumo Gas",
+        "date": "2021-01-20",
+        "status": "processing"
+    },
+    {
+        "id": 6568,
+        "bill_name": "ACME Electricty",
+        "date": "2020-12-22",
+        "status": "scheduled"
+    },
+    {
+        "id": 994,
+        "bill_name": "ACME Gas",
+        "date": "2020-11-10",
+        "status": "unable to pay"
+    },
+    {
+        "id": 1025,
+        "bill_name": "Lumo Electricity",
+        "date": "2020-11-27",
+        "status": "processing"
+    },
+    {
+        "id": 5708,
+        "bill_name": "ACME Electricty",
+        "date": "2020-11-12",
+        "status": "processing"
+    },
+    {
+        "id": 8444,
+        "bill_name": "Lumo Electricity",
+        "date": "2020-11-10",
+        "status": "scheduled"
+    },
+    {
+        "id": 1123,
+        "bill_name": "Lumo Gas",
+        "date": "2020-12-23",
+        "status": "unable to pay"
+    },
+    {
+        "id": 4785,
+        "bill_name": "Lumo Gas",
+        "date": "2021-01-05",
+        "status": "scheduled"
+    },
+    {
+        "id": 9428,
+        "bill_name": "Lumo Gas",
+        "date": "2020-11-30",
+        "status": "unable to pay"
+    }
+]
+}
